@@ -1,1 +1,1 @@
-worker : python bot.py
+worker : sudo ./run.sh
